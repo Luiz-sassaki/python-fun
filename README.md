@@ -12,7 +12,7 @@ Fiz uma figura geométrica onde possui todos lados iguais com um design abstrato
 
 
 
- ## Obra na prática
+ ## O código na prática
 
 <B>TELA INICIAL</B><br>
 <img src="images/jogodavelha.png" alt="tela inicial">

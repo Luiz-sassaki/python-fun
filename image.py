@@ -19,6 +19,6 @@ while b < 210:
     a += 3
     b += 1
 
-    t.hideturtle()
+t.hideturtle()  # Colocando aqui para esconder a tartaruga após o desenho
 
-    turtle.done()
+turtle.done()  # Este comando deve ser chamado uma vez, após o fim do desenho

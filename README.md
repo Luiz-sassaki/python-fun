@@ -13,8 +13,8 @@ I made a geometric figure where all sides are equal with an abstract design.
 
  ## The code in practice
 
-<B>TELA INICIAL</B><br>
-<img src="images/jogodavelha.png" alt="tela inicial">
+<B>HOME SCREEN</B><br>
+<img src="images/fun.png" alt="home screen">
 
 
 ## Developer

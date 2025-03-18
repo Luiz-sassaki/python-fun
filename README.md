@@ -14,6 +14,7 @@ I made a geometric figure where all sides are equal with an abstract design.
  ## The code in practice
 
 <B>HOME SCREEN</B><br>
+
 <img src="/fun.png" alt="home screen">
 
 
